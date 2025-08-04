@@ -1,0 +1,65 @@
+GENERAL INTERVIEW QUESTIONS
+----------------------------
+- Tell me about yourself.
+- What are your greatest strengths?
+- What is your biggest weakness?
+- Why do you want to work for our company?
+- Where do you see yourself in five years?
+- Tell me about a time you faced a challenge at work.
+- How do you handle pressure and stressful situations?
+- What motivates you?
+- Why should we hire you?
+- Describe your ideal working environment.
+- What are your career goals?
+- How do you prioritize your tasks when managing multiple projects?
+- Tell me about a time you had a conflict with a colleague. How did you resolve it?
+- What makes you unique compared to other candidates?
+- How do you handle feedback, especially when it's critical?
+- Tell me about a time you failed. What did you learn from it?
+- How do you stay organized in your daily work?
+- Describe a situation where you had to learn something quickly.
+- How do you define success in your career?
+- What do you know about our company and why does it interest you?
+- What type of leadership style do you respond best to?
+- Do you prefer working independently or as part of a team?
+- How do you stay motivated during repetitive tasks?
+- What would your previous manager or coworkers say about you?
+- What is your approach to continuous learning and self-improvement?
+- How do you handle tight deadlines?
+- What do you do when you don't know how to solve a problem?
+- How do you ensure effective communication in a team?
+- Tell me about a time when you exceeded expectations at work.
+- How do you adapt to changes in the workplace?
+- Describe a project you are particularly proud of.
+- What steps do you take to ensure quality in your work?
+- How do you handle multiple priorities with limited time?
+- Describe your decision-making process.
+- How do you deal with ambiguity or incomplete information?
+- What kind of work environment helps you thrive?
+- How do you approach goal setting and tracking your progress?
+- Tell me about a time you had to convince someone to see things your way.
+- How do you ensure you meet or exceed client expectations?
+- What do you do when you're not feeling productive?
+- Tell me about a time when you made a mistake and how you handled it.
+- How do you balance personal and professional growth?
+- What do you believe is the most important soft skill for this role?
+- How do you maintain a healthy work-life balance?
+- What kind of professional development are you currently pursuing?
+
+TECHNICAL QUESTIONS (DATA SCIENCE & AI)
+--------------------------------------
+- Can you explain the difference between supervised and unsupervised learning?
+- How do you handle missing data in a dataset?
+- What is regularization in machine learning and why is it useful?
+- How would you explain overfitting to a non-technical stakeholder?
+- What is the bias-variance tradeoff?
+- Can you describe a machine learning project you've worked on?
+- What metrics would you use to evaluate a classification model?
+- How do you choose the right algorithm for a specific problem?
+- Explain the difference between precision and recall.
+- What are the key steps in a data science pipeline?
+- What is cross-validation and why is it important?
+- How do you ensure your model is interpretable?
+- Have you used SHAP or LIME before? What for?
+- Explain the concept of a confusion matrix.
+- How do you clean and preprocess unstructured data?
